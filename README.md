@@ -68,7 +68,7 @@ Build system : Maven
 - [RFC 6455](https://www.rfc-editor.org/rfc/rfc6455)
 
 
-## References
+## Examples
 
 - [Spring websocket without stomp or sockjs](https://stackoverflow.com/a/32267452)
 - [Send message to specific client](https://stackoverflow.com/questions/24073987/how-to-send-message-to-a-specific-device-by-spring-websocket)
