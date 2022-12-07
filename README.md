@@ -11,7 +11,7 @@ Build system : Maven
 ```
 
 
-## Spring Boot Implementation
+## Implementation Details
 
 ![test](websocket-message-channel-test.jpg)
 
