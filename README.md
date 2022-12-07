@@ -1,6 +1,6 @@
 # Spring Boot WebSocket Raw Text Server
 
-Spring WebSocket server without any message layer such as STOMP.
+Spring WebSocket server without any message layer such as STOMP
 
 ## About Project
 
